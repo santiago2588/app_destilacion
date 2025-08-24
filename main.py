@@ -6,7 +6,7 @@ import pandas as pd
 # --- Configuración de la Página ---
 # Esto debe ser lo primero que se ejecute en el script.
 st.set_page_config(
-    page_title="Predictor de Rendimiento de Destilación",
+    page_title="Predictor de Rendimiento de Proceso de Flotacion",
     page_icon="🧪",
     layout="wide"
 )
