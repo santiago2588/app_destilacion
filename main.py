@@ -65,7 +65,7 @@ with st.sidebar:
     st.caption("La caída de presión a lo largo de la columna. Influye en los puntos de ebullición.")
 
 # --- Contenido de la Página Principal ---
-st.title("🧪 Predictor de Rendimiento de Columna de Destilación")
+st.title("🧪 Predictor de Rendimiento de Proceso de Flotacion")
 st.markdown("""
 ¡Bienvenido! Esta aplicación utiliza un modelo de machine learning para predecir el rendimiento de un producto químico en una columna de destilación basándose en parámetros operativos clave.
 
