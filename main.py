@@ -25,7 +25,7 @@ def load_model(model_path):
         return None
 
 # Cargamos nuestro modelo campeón. Streamlit buscará en la ruta 'modelo_xgboost_final.joblib'.
-model = load_model('modelo_xgboost_final.joblib')
+model = load_model('model.joblib')
 
 # --- Barra Lateral para las Entradas del Usuario ---
 with st.sidebar:
